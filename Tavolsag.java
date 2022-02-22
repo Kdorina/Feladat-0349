@@ -1,4 +1,15 @@
+
+/*
+* File: Tavolsag.java
+* Author: Kovács Dorina
+* Copyright: 2022, Kovács Dorina
+* Group: Szoft I / N
+* Date: 2022-02-22
+* Github: https://github.com/Kdorina/
+* Licenc: GNU GPL
+*/
 import java.util.Scanner;
+
 class Tavolsag{
 	
 	public static void main(String[] args){
