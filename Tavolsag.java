@@ -13,7 +13,7 @@ import java.util.Scanner;
 class Tavolsag{
 	
 	public static void main(String[] args){
-		System.out.println("");
+		System.out.println("Kovacs Dorina, Szoft I / N, 2022-02-22");
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Kerek egy magassagot: ");
